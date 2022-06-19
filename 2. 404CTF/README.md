@@ -71,7 +71,7 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
   - [Sondage](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :heavy_check_mark:
   - Pierre-Papier-Hallebarde :x:
   - [Bienvenue](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :heavy_check_mark:
-  - [Discord]() :heavy_check_mark:
+  - [Discord](Solves/disc.md) :heavy_check_mark:
   - [Je suis une théière](Solves/the.md) :heavy_check_mark:
   - Par câble :x:
   - Gogolfplex :x:
@@ -82,7 +82,7 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 
 - WEB3 :x:
 
-## 
+##
 
 Thinking process scripts :
 
