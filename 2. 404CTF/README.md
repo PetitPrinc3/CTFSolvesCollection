@@ -82,6 +82,8 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 
 - WEB3 :x:
 
+## 
+
 Thinking process scripts :
 
 - [IDAT reader](Solves/readidat.py)
