@@ -47,10 +47,10 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 - Cryptanalyse :x:
 
 - OSINT
-  - Equipement désuet :heavy_check_mark:
-  - Collaborateur suspect :heavy_check_mark:
-  - A l'aube d'un échange :heavy_check_mark:
-  - Nous sommes infiltrés ! :heavy_check_mark:
+  - [Equipement désuet](Solves/desuet.md) :heavy_check_mark:
+  - [Collaborateur suspect](Solves/collab.md) :heavy_check_mark:
+  - [A l'aube d'un échange](Solves/echange.md) :heavy_check_mark:
+  - [Nous sommes infiltrés !](Solves/infiltr.md) :heavy_check_mark:
   - Nom d'une nouvelle recrue ! :x:
 
 - Programming
