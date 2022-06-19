@@ -1,5 +1,0 @@
-import os 
-
-N = 64
-
-print(int.from_bytes(os.urandom(N // 8), "big"))
