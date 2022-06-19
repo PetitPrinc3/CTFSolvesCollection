@@ -13,8 +13,8 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
   - [Un Agent Compromis 2/3](Solves/compromis.md) :heavy_check_mark:
   - [SOS RAID 1/2](Solves/raid.py) :heavy_check_mark:
   - [Hacklebarde Ransomware 1/4](Solves/rsware1.py) :heavy_check_mark:
-  - Hacklebarde Ransomware 2/4 :heavy_check_mark:
-  - SOS RAID 2/2 :heavy_check_mark:
+  - [Hacklebarde Ransomware 2/4](Solves/rsware2.md) :heavy_check_mark:
+  - [SOS RAID 2/2](Solves/raid2.md) :heavy_check_mark:
   - Hackelbarde Ransomware 3/4 :x:
   - Hackelbarde Ransomware 4/4 :x:
 
