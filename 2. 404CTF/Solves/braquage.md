@@ -1,6 +1,7 @@
 # Le braquage
 
 This challenge focuses on SQL injections.
+[CheatSheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/MySQL%20Injection.md)
 
 ## Page1
 
