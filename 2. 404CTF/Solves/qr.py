@@ -1,0 +1,11 @@
+from pyzbar.pyzbar import decode
+import base64
+from PIL import Image
+from io import BytesIO
+
+bb = "iVBORw0KGgoAAAANSUhEUgAAAOcAAABkCAIAAADysrABAAABeUlEQVR4nO3SQYrDMBAAQbH//7NzWBKMRjG5NlSdbMeWRqHXWuu6rrXW/8XH53a93R/eP9keztXut8fVHr66/7StM4ecF9te36aaQ36bYf4/c/7nGZ6fz8WPK899n194OPXxLMd95xa/nGLb8Xj8bZHthTnn34Ia1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpUS49q6VEtPaqlR7X0qJYe1dKjWnpeRr1Yfest7JMAAAAASUVORK5CYII="
+
+im = Image.open(BytesIO(base64.b64decode(bb)))
+im.save('image.png', 'PNG')
+
+print(decode(im))
