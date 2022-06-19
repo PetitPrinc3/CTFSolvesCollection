@@ -9,7 +9,7 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 - Forensic Analysis
   - Floppy :heavy_check_mark:
   - PingPong :heavy_check_mark:
-  - Un Agent Compromis 1/3 :heavy_check_mark:
+  - [Un Agent Compromis 1/3](Solves/compromis1.md) :heavy_check_mark:
   - Un Agent Compromis 2/3 :heavy_check_mark:
   - [SOS RAID 1/2](Solves/raid.py) :heavy_check_mark:
   - [Hacklebarde Ransomware 1/4](Solves/rsware1.py) :heavy_check_mark:
