@@ -30,7 +30,7 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
   - Fourchette :x:
 
 - Steganography
-  - La plume à la main :heavy_check_mark:
+  - [La plume à la main](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :heavy_check_mark:
   - [PNG : Un logo Obèse 1/4](Solves/PNG1.md) :heavy_check_mark:
   - [Stéréographie](Solves/stereo.md) :heavy_check_mark:
   - [PNG : Drôles de chimères 2/4]() :heavy_check_mark:
