@@ -40,8 +40,8 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 
 - WEB
   - Fiché js :x:
-  - Le braquage :heavy_check_mark:
-  - Du gâteau :heavy_check_mark:
+  - [Le braquage](Solves/braquage.md) :heavy_check_mark:
+  - [Du gâteau](Solves/gateau.md) :heavy_check_mark:
   - En construction :x:
 
 - Cryptanalyse :x:
