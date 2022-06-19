@@ -88,3 +88,7 @@ Thinking process scripts :
 
 - [IDAT reader](Solves/readidat.py)
 - [binascii dictionaries](Solves/asciis.py)
+
+##
+
+[Solves by Apoirier](https://github.com/apoirrier/CTFs-writeups/tree/master/404CTF2022)
