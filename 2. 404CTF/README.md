@@ -7,8 +7,8 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
 ## Solves
 
 - Forensic Analysis
-  - Floppy :heavy_check_mark:
-  - PingPong :heavy_check_mark:
+  - [Floppy](Solves/floppy.md) :heavy_check_mark:
+  - [PingPong](Solves/pingpong.md) :heavy_check_mark:
   - [Un Agent Compromis 1/3](Solves/compromis.md) :heavy_check_mark:
   - [Un Agent Compromis 2/3](Solves/compromis.md) :heavy_check_mark:
   - [SOS RAID 1/2](Solves/raid.py) :heavy_check_mark:
@@ -68,15 +68,15 @@ Collection of solves for some of the 2022 404CTF CTF challenges.
   - Coffre-Fort :x:
 
 - Misc
-  - Sondage :heavy_check_mark:
+  - [Sondage](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :heavy_check_mark:
   - Pierre-Papier-Hallebarde :x:
-  - Bienvenue :heavy_check_mark:
-  - Discord :heavy_check_mark:
-  - Je suis une théière :heavy_check_mark:
+  - [Bienvenue](https://www.youtube.com/watch?v=dQw4w9WgXcQ) :heavy_check_mark:
+  - [Discord]() :heavy_check_mark:
+  - [Je suis une théière](Solves/the.md) :heavy_check_mark:
   - Par câble :x:
   - Gogolfplex :x:
-  - Un utilisateur suspicieux 1/2 :heavy_check_mark:
-  - Un utilisateur suspicieux 2/2 :heavy_check_mark:
+  - [Un utilisateur suspicieux 1/2](Solves/util1.md) :heavy_check_mark:
+  - [Un utilisateur suspicieux 2/2](Solves/util2.md) :heavy_check_mark:
   - 8vers10 :x:
   - Joutes, Arches, Vallées & Arbalètes :x:
 
