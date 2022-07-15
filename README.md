@@ -5,6 +5,8 @@ There will be no explanation on my source codes or whatsoever.
 Feel free to use them as you wish !
 <img align="right" height="300" src="Gavroche.png">
 
+> You will also find a few scripts that I use in the Scripts section.
+
 ## CTFs
 
 - [1. FCSC - Top200](https://github.com/G4vr0ch3/CTFSolvesCollection/tree/main/1.%20FCSC)
