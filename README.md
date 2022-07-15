@@ -2,6 +2,7 @@
 
 Here is my CTF solve collection, stored by CTFs in the order of my participations.
 There will be no explanation on my source codes or whatsoever.
+<img align="right" height="300" src="Gavroche.png">
 Feel free to use them as you wish !
 
 > You will also find a few scripts that I use in the Scripts section.
