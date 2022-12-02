@@ -94,4 +94,4 @@ Other solves :
 
 ##
 
-[Solves by Gavroche](https://github.com/G4vr0ch3)
+[Solves by Petit Prince](https://github.com/PetitPrinc3)  (Formerly Gavroche)
