@@ -9,10 +9,10 @@ Feel free to use them as you wish !
 
 ## CTFs
 
-| CTF | Year | Ranking |
-| :-: | :--: | :-----: |
-| [FCSC](https://github.com/PetitPrinc3/CTFSolvesCollection/tree/main/1.%20FCSC) | 2022 | Top 200 |
-| [404CTF](https://github.com/PetitPrinc3/CTFSolvesCollection/tree/main/2.%20404CTF) | 2022 | Top 100 |
+| CTF | Year | Ranking | Username |
+| :-: | :--: | :-----: | :------: |
+| [FCSC](https://github.com/PetitPrinc3/CTFSolvesCollection/tree/main/1.%20FCSC) | 2022 | Top 200 | Gavroche |
+| [404CTF](https://github.com/PetitPrinc3/CTFSolvesCollection/tree/main/2.%20404CTF) | 2022 | Top 100 | Gavroche |
 
 ## Scripts
 
